@@ -13,3 +13,12 @@ You can double check how many files are in the stageing area and which chcnges h
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you want to make a second version of a programme or test a different approach.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They help to see which commits are parts of which branches, and which commits will be part of master.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All of the commits are now merged into one log. The master now includes all commits from the two branches ordered by timestamp.  
