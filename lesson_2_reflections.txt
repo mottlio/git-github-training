@@ -5,3 +5,7 @@ You need to initialize it for Git to track new commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 stageing area is an intermediate space between the working directory and a repository. We can check what will be committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can double check how many files are in the stageing area and which chcnges have been made compared to the working directory.
