@@ -22,3 +22,7 @@ They help to see which commits are parts of which branches, and which commits wi
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All of the commits are now merged into one log. The master now includes all commits from the two branches ordered by timestamp.  
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It's quicker and more accurate. It allows you to quickly identify differences and unify the two versions in a safe way (you are alerted about any conflicts that need to be resolved manually)
